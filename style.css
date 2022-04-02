@@ -26,3 +26,13 @@
 #summary{
   font-size:30px;
 }
+
+#flags{
+  height:15px;
+  width:25px;
+}
+
+#p1{
+  background-image:url("https://cdn.glitch.global/2fc684ca-9659-49fb-9bd3-2b6de3ed2ae6/u%26rflags.webp?v=1648942998760");
+    backgroud-repeat:no
+}
