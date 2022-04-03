@@ -20,8 +20,7 @@ font-family: 'Nunito Sans', sans-serif;
  display: block;
   margin-left: auto;
   margin-right: auto;
-  
-  padding-left:45%;
+  padding-left:35%;
 }
 
 #help{
@@ -39,15 +38,15 @@ font-family: 'Nunito Sans', sans-serif;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  height:200px;
-  width:215px;
+  height:auto;
+  width:350px;
 }
 #flee{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height:200px;
-  width:215px;
+  height:auto;
+  width:350px;
 }
 
 .text{
@@ -64,8 +63,8 @@ font-family: 'Nunito Sans', sans-serif;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  height:220px;
-  width:235px;
+  height:auto;
+  width:400px;
 }
 
 #kladko{
