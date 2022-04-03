@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&family=Outfit:wght@300&display=swap');
+*{
+font-family: 'Nunito Sans', sans-serif;
+}
 #header{
   background-image: url("https://cdn.glitch.global/b4a82e58-d4ad-40fa-8300-31c5f8ff126a/uvsr.jpg?v=1648933064077");
   width: 100%;
@@ -40,4 +44,13 @@
   margin-right: auto;
   height:200px;
   width:215px;
+}
+
+.text{
+  font-size:20px;
+}
+
+#Lee{
+  height:130px;
+  width:auto;
 }
