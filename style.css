@@ -17,7 +17,11 @@ font-family: 'Nunito Sans', sans-serif;
 
 #video{
   font-size:35px;
-
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+  padding-left:45%;
 }
 
 #help{
@@ -53,4 +57,18 @@ font-family: 'Nunito Sans', sans-serif;
 #Lee{
   height:130px;
   width:auto;
+}
+
+#poster{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height:220px;
+  width:235px;
+}
+
+#kladko{
+  height:auto;
+  width:50px;
 }
